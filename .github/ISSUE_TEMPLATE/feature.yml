@@ -32,4 +32,4 @@ body:
     attributes:
       label: 담당자
       description: 이 기능을 담당할 GitHub 사용자명을 입력해주세요.
-      placeholder: @Haeyul
+      placeholder: "@Haeyul"
