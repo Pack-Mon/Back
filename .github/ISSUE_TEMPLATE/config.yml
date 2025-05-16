@@ -2,4 +2,4 @@ blank_issues_enabled: false
 templates:
   - bug_report.yml
   - refactor.yml
-  - feature_request.yml
+  - feature.yml
