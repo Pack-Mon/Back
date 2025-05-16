@@ -1,4 +1,4 @@
-name: 🌟 Feature Request
+name: Feature Request
 description: 새로운 기능을 제안하거나 요청할 때 사용하세요.
 title: "[FEATURE] "
 labels: ["feature"]
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        📌 기능 설명  
+        기능 설명  
         어떤 기능인지, 왜 필요한지 간단히 설명해주세요.
 
   - type: textarea
@@ -16,6 +16,7 @@ body:
     attributes:
       label: 기능 설명
       description: 추가하고 싶은 기능에 대해 자세히 설명해주세요.
+      placeholder: 사용자 프로필 이미지 업로드 기능 등
     validations:
       required: true
 
@@ -31,4 +32,4 @@ body:
     attributes:
       label: 담당자
       description: 이 기능을 담당할 GitHub 사용자명을 입력해주세요.
-      placeholder: "@Haeyul"
+      placeholder: @Haeyul
